@@ -1,0 +1,14 @@
+{
+  "name": "registro-de-notas-de-una-academia-de-idiomas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernanda Monzón y Eduardo Zapet",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
